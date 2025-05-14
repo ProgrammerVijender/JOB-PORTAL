@@ -1,0 +1,1 @@
+export const USER_API_END_POINTS = "http://localhost:9191/api/v1/user";
