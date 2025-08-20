@@ -5,7 +5,7 @@ import cookieParser from "cookie-parser";
 import dotenv from "dotenv";
 import connectDB from "./utils/db.js";
 import userRoute from "./routes/user.route.js";
-import companyRoute from "../back/routes/company.route.js";
+import companyRoute from "./routes/company.route.js";
 // import jwt from "jsonwebtoken";
 import jobRoute from "../back/routes/job.route.js";
 import applicationRoute from "../back/routes/application.route.js";
